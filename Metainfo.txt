@@ -1,7 +1,16 @@
-Name of Quantlet : 20231215-Moc-Far-Stat-Arbitrage-LSTM-US-Tech
-Published in : Stat Arbitrage LSTM US Tech
-Description : Statistical Arbitrage with LSTM on US Tech stocks
 
-Keywords : cointegration, Holm-Bonferroni, moving average, LSTM
+Name of Quantlet: '20231215-Moc-Far-Stat-Arbitrage-LSTM-US-Tech'
 
-Author : Moc Far
+Published in: Stat Arbitrage LSTM US Tech
+
+Description: 'This Quantlet shows Statistical Arbitrage with LSTM on US Tech stocks'
+
+Keywords: 'StatArb, LSTM, SMA, TechStocks'
+
+Author: 'Henri Mockler, Liselotte Farstad'
+
+Submitted: '15 December 2023'
+
+Input: 'Daily historical prices and log returns from S&P500 Information Technology and S&P500 Index'
+
+Output: 'Performance metrics of portfolios using trading strategies for Pairs Trading'
